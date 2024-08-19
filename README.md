@@ -1,4 +1,4 @@
-# calculodeidade
+# calculo de idade
 Calculando a idade de uma pessoa
 
 Iniciando programcao em python
